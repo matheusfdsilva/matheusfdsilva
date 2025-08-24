@@ -24,16 +24,16 @@ Atualmente venho explorando diferentes linguagens, frameworks e ferramentas.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Splunk_logo.svg" width="80" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/1/11/Datadog_logo.png" width="80" height="40" />
-</p>
+  <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="40" height="40" />
+</p>  
 
 ## 📊 Estatísticas do GitHub  
 
