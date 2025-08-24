@@ -32,6 +32,7 @@ Atualmente venho explorando diferentes linguagens, frameworks e ferramentas.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" title="Redis" />
   <img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21.svg" height="40" title="Splunk" style="background:white; padding:2px; border-radius:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" title="Prometheus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" title="Grafana" />
   <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg" height="40" title="Datadog" />
