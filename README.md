@@ -17,7 +17,7 @@ Atualmente venho explorando diferentes linguagens, frameworks e ferramentas.
 
 ## 📚 Atualmente aprendendo  
 - Clojure ☕🌿  
-- Inglês 🇬🇧📖 
+- Inglês 📖 
 
 ## 🚀 Tecnologias e Ferramentas  
 
