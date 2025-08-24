@@ -1,4 +1,11 @@
-[LinkedIn](https://www.linkedin.com/in/matheus-f-70b1981a6/)  [GitHub](https://github.com/matheusfdsilva)
+<p align="left">
+  <a href="https://www.linkedin.com/in/matheus-f-70b1981a6/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+  </a>
+  <a href="https://github.com/matheusfdsilva" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+  </a>
+</p>
   
 # 👋 Olá, eu sou o Matheus Ferreira  
 
