@@ -1,10 +1,13 @@
-
+[LinkedIn](https://www.linkedin.com/in/matheus-f-70b1981a6/)  [GitHub](https://github.com/matheusfdsilva)
+  
 # 👋 Olá, eu sou o Matheus Ferreira  
 
 Sou desenvolvedor backend com experiência principalmente nas stack Java/Kotlin utilizando Spring como framework e AWS como cloud.  
 Atualmente venho explorando diferentes linguagens, frameworks e ferramentas.  
 
----
+## 📚 Atualmente aprendendo  
+- Clojure ☕🌿  
+- Inglês 🇬🇧📖 
 
 ## 🚀 Tecnologias e Ferramentas  
 
@@ -25,22 +28,9 @@ Atualmente venho explorando diferentes linguagens, frameworks e ferramentas.
   <img src="https://upload.wikimedia.org/wikipedia/en/1/11/Datadog_logo.png" width="80" height="40" />
 </p>
 
----
-
-## 📚 Atualmente aprendendo  
-- Clojure ☕🌿  
-
----
-
 ## 📊 Estatísticas do GitHub  
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheus-ferreira&show_icons=true&theme=dracula" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-ferreira&layout=compact&theme=dracula" />
-</p>  
-
----
-
-## 🌍 Onde me encontrar  
-- [LinkedIn](https://www.linkedin.com/in/matheus-f-70b1981a6/)  
-- [GitHub](https://github.com/matheusfdsilva)  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusfdsilva&show_icons=true&theme=dracula" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfdsilva&layout=compact&theme=dracula" />
+</p> 
