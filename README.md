@@ -16,7 +16,7 @@ Sou desenvolvedor backend com experiência principalmente nas stack Java/Kotlin 
 Atualmente venho explorando diferentes linguagens, frameworks e ferramentas.  
 
 ## 📚 Atualmente aprendendo  
-- Clojure ☕🌿  
+- Azure  
 - Inglês 📖 
 
 ## 🚀 Tecnologias e Ferramentas  
